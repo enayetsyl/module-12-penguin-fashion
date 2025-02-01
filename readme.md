@@ -22,10 +22,6 @@ This project is a simple **Jacket Store Landing Page** that I developed during m
 │── README.md       # Project documentation
 ```
 
-## 📸 Screenshots
-| Desktop View | Mobile View |
-|-------------|-------------|
-| ![Desktop](./images/desktop-preview.png) | ![Mobile](./images/mobile-preview.png) |
 
 ## 📖 Learning Outcomes
 During this project, I:
